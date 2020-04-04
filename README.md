@@ -10,3 +10,6 @@ Reads the file pushed on the S3 bucket based on which the event was raised.
 
 ## Architecture
 ![architecture](./architecture.png)
+
+## References
+- [AWS Docs](https://docs.aws.amazon.com/lambda/latest/dg/java-handler.html)
